@@ -18,3 +18,11 @@ image:
 Supervised Learning is a Machine Learning technique that uses labelled data(aka training dataset) to make predictions.
 It uses a training set to teach models to provide the desired output. This training dataset includes inputs and correct outputs, which allow the model to learn over time. The algorithm measures its accuracy through the loss function, adjusting until the error has been sufficiently minimized.
 
+Supervised learning can be split in two group of problem that are Regression and Classification:
+
+ - Regression try understand the relationship between dependent and indipendent variables, and it's commonly used to make predictions(i.e. house sales price).
+ - Classication try to assign data to a specific category, basically recognize entitites within the dataset and attempt carefully to label them.
+
+In today post we will focus on Linear Regression model.
+
+## Linear Regression
